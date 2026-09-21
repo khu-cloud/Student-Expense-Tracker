@@ -11,12 +11,6 @@ Automatically load previous expenses when the program starts
 Requirements
 Python 3.8 or later
 No external Python libraries are required
-Project Structure
-student_expense_tracker/
-│
-├── main.py
-├── expenses.json
-└── README.md
 How to Run
 Install Python 3.8 or later.
 Download or clone this repository.
