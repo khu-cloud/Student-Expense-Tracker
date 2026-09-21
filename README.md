@@ -48,7 +48,7 @@ JSON data storage
 Date validation
 Author
 Name : Khushali Chawda
-Regd No. : 26BCE10301
+Reg No. : 26BCE10301
 Department: CSE 
 Semester:1st
 College: Vellore Institute Of Technology,Bhopal
